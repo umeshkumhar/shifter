@@ -110,3 +110,5 @@ images.shifter.cloud/shifter:latest \
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/google/shifter.svg)](https://starchart.cc/google/shifter)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshkumhar%2Fshifter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshkumhar%2Fshifter?ref=badge_large)
