@@ -1,6 +1,7 @@
 # Shifter - Openshift to Kubernetes Migration Accelerator 
 
 [![Bump & Tag New Release](https://github.com/google/shifter/actions/workflows/auto-tag-release.yml/badge.svg?branch=main&event=status)](https://github.com/google/shifter/actions/workflows/auto-tag-release.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshkumhar%2Fshifter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshkumhar%2Fshifter?ref=badge_shield)
 
 Shifter is a tool which accelerates the migration from OpenShift 3.x / 4.x by translating the applications for Kubernetes, GKE & Anthos and supports migrating to Service Mesh with ASM + Istio Support.
             
@@ -110,3 +111,7 @@ images.shifter.cloud/shifter:latest \
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/google/shifter.svg)](https://starchart.cc/google/shifter)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fumeshkumhar%2Fshifter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fumeshkumhar%2Fshifter?ref=badge_large)
